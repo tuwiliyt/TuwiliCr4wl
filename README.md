@@ -24,17 +24,3 @@ Pentest Tools adalah aplikasi berbasis web untuk melakukan crawling website dan 
 4. Akses di browser:
   ```bash
   http://127.0.0.1:5000.
-
-
-Teknologi yang Digunakan
-   ```bash
-   Python
-   Flask
-   Bootstrap
-   BeautifulSoup
-
-
-Kontribusi
-```bash
-Pull request dipersilakan. Untuk perubahan besar, silakan buka issue terlebih dahulu.
-
