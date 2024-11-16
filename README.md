@@ -26,7 +26,13 @@ Pentest Tools adalah aplikasi berbasis web untuk melakukan crawling website dan 
   http://127.0.0.1:5000.
 
 
-
+Teknologi yang Digunakan
+Python
+Flask
+Bootstrap
+BeautifulSoup
+Kontribusi
+Pull request dipersilakan. Untuk perubahan besar, silakan buka issue terlebih dahulu.
 
 
 
