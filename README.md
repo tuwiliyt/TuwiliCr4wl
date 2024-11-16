@@ -27,25 +27,14 @@ Pentest Tools adalah aplikasi berbasis web untuk melakukan crawling website dan 
 
 
 Teknologi yang Digunakan
-Python
-Flask
-Bootstrap
-BeautifulSoup
+   ```bash
+   Python
+   Flask
+   Bootstrap
+   BeautifulSoup
+
+
 Kontribusi
+```bash
 Pull request dipersilakan. Untuk perubahan besar, silakan buka issue terlebih dahulu.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
