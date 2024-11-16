@@ -8,6 +8,10 @@ Pentest Tools adalah aplikasi berbasis web untuk melakukan crawling website dan 
 - Menyediakan daftar URL rentan yang dapat diimport.
 - Antarmuka modern dengan latar gradasi hijau.
 
+![Alt Text](https://github.com/tuwiliyt/TuwiliCr4wl/blob/main/richie1.jpg?raw=true)
+![Alt Text](https://github.com/tuwiliyt/TuwiliCr4wl/blob/main/richie2.jpg?raw=true)
+
+
 ## Cara Menggunakan
 1. Clone repository ini:
    ```bash
