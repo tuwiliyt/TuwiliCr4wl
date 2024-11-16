@@ -15,7 +15,7 @@ Pentest Tools adalah aplikasi berbasis web untuk melakukan crawling website dan 
 ## Cara Menggunakan
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/tuwiliyt/TuwiliCr4wl.git
 
 2. Install dependensi:
    ```bash
